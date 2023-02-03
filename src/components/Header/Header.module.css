@@ -1,0 +1,13 @@
+.header {
+  padding-top: 64px;
+  padding-bottom: 48px;
+}
+.title {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 77px;
+}
+.subtitle {
+  font-size: 21px;
+  line-height: 36px;
+}

@@ -1,0 +1,15 @@
+.select {
+  padding: 9px 108px 8px 15px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #ABB5BE;
+  background-color: #ffffff;
+  border: 1px solid #CED4DA;
+  border-radius: 4px;
+}
+.school {
+  font-weight: 400;
+  font-size: 16px;
+  color: #818182;
+  margin-bottom: 3px;
+}
